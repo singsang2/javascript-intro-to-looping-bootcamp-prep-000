@@ -18,4 +18,10 @@ function whileLoop(number){
 }
 
 
-function
+function incrementVairable(){
+  i = i + 1;
+}
+
+do {
+  con
+}
