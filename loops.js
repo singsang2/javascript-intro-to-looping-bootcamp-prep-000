@@ -23,5 +23,5 @@ function incrementVairable(){
 }
 
 do {
-  con
+  console
 }
